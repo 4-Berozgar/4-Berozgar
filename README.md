@@ -1,56 +1,81 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role e.g., Full Stack Developer] from [Your Country]</h3>
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">🚀 A passionate [Your Role, e.g., Full Stack Developer] from [Country]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
-
-- 🔭 I’m currently working on **[Project Name or Topic]**
-- 🌱 I’m currently learning **[Tech/Skill like Next.js, GraphQL, etc.]**
-- 👯 I’m looking to collaborate on **[Project Type or Name]**
-- 💬 Ask me about **[Languages/Technologies]**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[e.g., I love coffee ☕ and open-source 💻]**
-
----
-
-### 🧰 Languages and Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,cpp,git,github,tailwind,figma" />
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🧑‍💻 About Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="yourusername" />
+- 🔭 Currently working on: **[Project or Tech]**
+- 🌱 Currently learning: **[Tech or Skill]**
+- 💬 Ask me about: **React, Node.js, MongoDB, Python**
+- 🤝 Looking to collaborate on: **Open-source projects & team-based apps**
+- 📫 Reach me: **your.email@example.com**
+- ⚡ Fun fact: *I write clean code and love clean UI!*
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,cpp,git,github,tailwind" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Stats
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical" alt="yourusername" /> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" width="45%" />
+</div>
 
 ---
 
-### 📫 Connect with me:
+### 🏆 Achievements & Contributions
 
-<p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-<a href="mailto:your.email@example.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-<a href="https://your-portfolio-link.com"><img align="center" src="https://skillicons.dev/icons?i=webflow" height="30" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&margin-w=10&row=1" />
 </p>
 
 ---
 
-<!-- Optional cool section -->
-<details>
-<summary>📘 My Projects</summary>
+### 📂 My Projects
 
-- 🔗 [Cool Project 1](https://github.com/yourusername/project1)
-- 🔗 [Cool Project 2](https://github.com/yourusername/project2)
-- 🔗 [Cool Project 3](https://github.com/yourusername/project3)
+Here are a few highlights of what I've built recently:
 
-</details>
+- 🔗 [**Project 1**](https://github.com/yourusername/project1): A modern [brief description]
+- 🔗 [**Project 2**](https://github.com/yourusername/project2): A tool for [brief description]
+- 🔗 [**Project 3**](https://github.com/yourusername/project3): Built with [tech stack]
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webflow" height="30"/>
+  </a>
+</p>
+
+---
+
+<!-- Optional: Activity Graph -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact" alt="activity graph" /> -->
